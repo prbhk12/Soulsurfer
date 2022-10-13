@@ -3,7 +3,7 @@
     "logo": "https://github.com/TeamShizu/KingdomMusic/raw/main/etc/kingdom.jpg",
     "description": "Kingdom Music player is an advanced telegram bot for play music and video in your voice chat.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/TeamShizu/KingdomMusic",
+    "repository": "https://github.com/prbhk12/Soulsurfer",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
